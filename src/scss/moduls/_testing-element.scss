@@ -1,0 +1,20 @@
+.modal{
+    color: rgb(190, 183, 172);
+    font-size: 3rem;
+
+    background-color: brown;
+
+    position: absolute;
+    height: 70%; //tu mozna ustawić dowolną wartośc 
+    width: 70%;  //tu mozna ustawić dowolną wartośc 
+    top: 50%;
+    left: 50%;
+    translate-top: -50%;
+    translate-left: -50%;
+    transform: translate(-50%, -50%);
+
+    display: flex;              // centrowanie tekstu w środku diva
+    align-items: center;
+    justify-content: center;
+
+}

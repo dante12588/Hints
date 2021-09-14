@@ -1,0 +1,1 @@
+<h2>Protip na wyśrodkowanie elementu absolutnie</h2>
